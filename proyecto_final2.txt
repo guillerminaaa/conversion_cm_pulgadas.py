@@ -1,0 +1,20 @@
+-----------------------------------------
+Problematica:
+¨La compañia estadounidense esta realizando un nuevo modelo de muebles basados en planos de un famoso diseñador pero muchas piezas no encajan corectamente porque los planos estan en cms y las maquinas de eeuu estan en pulgadas¨
+
+-----------------------------------------
+
+Algoritmo:
+1. solicitar al usuario que ingrese las medidas 
+2. convertir las medidas de cm a pulgadas
+3. mostrar las medidad convertidas
+
+--------------------------
+Pseudocodigo:
+inicio
+#1. print ("Por favor ingrese las medidas de la pieza del mueble (en cm ) ")
+#2. convert_cm_pul = cm_mesure / 2.54
+ 
+#3 print("Las medidas en pulgadas de la pieza ingresada es: ", )
+fin
+
